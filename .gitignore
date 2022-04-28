@@ -5,7 +5,7 @@ node_modules
 coverage
 
 # truffle
-build
+#build
 
 # environment variables
 .env
